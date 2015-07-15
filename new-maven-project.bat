@@ -1,1 +1,1 @@
-mvn -e archetype:generate -DarchetypeGroupId="com.maohi.software" -DarchetypeArtifactId="archetype" -DarchetypeVersion="1.0-SNAPSHOT"  -DgroupId="com.micropol" -DartifactId="test" -Dversion="1.0-SNAPSHOT"
+mvn -e archetype:generate -DarchetypeGroupId="com.maohi.software" -DarchetypeArtifactId="webapp-archetype" -DarchetypeVersion="1.0-SNAPSHOT"  -DgroupId="com.micropol" -DartifactId="test" -Dversion="1.0-SNAPSHOT"
